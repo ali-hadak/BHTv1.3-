@@ -1,0 +1,5 @@
+1) LCD SCREEN 16X2 I2C     (1x)
+2) ESP8266                 (1x)
+3) Push Button             (3x)
+4) Button                  (1x)
+5) 2-battery compartment   (1x)

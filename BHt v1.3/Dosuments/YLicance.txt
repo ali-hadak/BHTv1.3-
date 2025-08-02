@@ -1,0 +1,45 @@
+YLicance
+
+YLicance
+
+----------------------------
+TÜRKÇE:
+----------------------------
+
+YLicance, resmi yazılım/siber güvenlik şirketlerine ve devlet kurumlarına verilen, BHt cihazının orijinalliğini ve yasal kullanım hakkını gösteren özel bir lisanstır.  
+Her YLicance lisansına sahip cihazın kendine ait bir lisans numarası bulunur. Örnek format:
+
+    YL0000000
+
+YLicance lisanslı ürünler yalnızca *Ali HADAK* tarafından üretilmektedir.
+
+----------------------------------------
+YLicance lisanslı bir ürünü satın almak için gerekli şartlar:
+1) Resmi bir yazılım veya siber güvenlik şirketi sahibi olmak gerekir. Cihaz, şirket üzerine alınır.
+2) Cihaz sadece izinle kullanılabilir. Satın alma sırasında, bu klasörde yer alan “YLicance/kullanimsozlesmesi.txt” adlı sözleşme imzalanır.
+3) Lisans numarasının üçüncü kişilerle paylaşılmayacağına dair bir taahhüt de aynı sözleşme dosyasında yer alır.
+----------------------------------------
+
+⚠️ Bu lisansa sahip olmayan ürünlerin yasa dışı kullanımından *Ali HADAK* sorumlu tutulamaz.
+
+____________________________________________________________________________________________
+
+----------------------------
+ENGLISH:
+----------------------------
+
+YLicance is a license that certifies the authenticity and legal usage rights of BHt devices issued to official software/cybersecurity companies and government institutions.  
+Every YLicance-licensed product has a unique license number. Example format:
+
+    YL0000000
+
+YLicance-licensed products are exclusively manufactured by *Ali HADAK*.
+
+----------------------------------------
+Requirements for purchasing a YLicance-licensed product:
+1) You must own an official software or cybersecurity company. The device is registered to the company.
+2) The device can only be used with explicit permission. Upon purchase, a contract named "YLicance/kullanimsozlesmesi.txt" (located in this folder) must be signed.
+3) The contract also includes a clause stating that your license number must not be shared with third parties.
+----------------------------------------
+
+⚠️ *Ali HADAK* is not responsible for the illegal use of products without a YLicance license.
